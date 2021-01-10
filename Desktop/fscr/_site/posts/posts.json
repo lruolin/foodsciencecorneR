@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Blog",
+    "description": "Welcome!",
+    "author": [
+      {
+        "name": "lruolin",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-11",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-01-11T00:31:58+08:00",
+    "input_file": {}
+  }
+]
